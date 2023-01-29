@@ -1,5 +1,5 @@
 '''
-Open tellodrone camera on the computer
+Open tellodrone camera on the computer v2 
 '''
 
 
